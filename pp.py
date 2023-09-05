@@ -73,5 +73,4 @@ def main():
     dump_users(get_chat_info(channel_name, client), client)
     print('Done!')
 
-if __name__ == '__main__':
-    main()
+if __name__ == '__main__':    main()
