@@ -4,7 +4,7 @@ import threading
 import telebot
 
 # Замените 'YOUR_BOT_TOKEN' на токен вашего Telegram бота
-TOKEN = '6105834784:AAEYhTBRhpRFVo2oU3WW8C1VVaco5BK6YV0'
+TOKEN = ''
 
 
 class MeetingBot:
