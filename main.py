@@ -1,7 +1,7 @@
 from meeting_bot import MeetingBot
 
 # апи токен телеграмм
-TOKEN = '6105834784:AAEYhTBRhpRFVo2oU3WW8C1VVaco5BK6YV0'
+TOKEN = ''
 
 # запуск бота
 if __name__ == '__main__':
